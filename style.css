@@ -349,9 +349,9 @@ section {
 }
 
 .contact-info .share {
-  padding-top: 2rem;
+  padding-top: 0rem;
   border-top: var(--border);
-  margin-top: 1rem;
+  margin-top: 0rem;
 }
 
 .contact-info .share a {
